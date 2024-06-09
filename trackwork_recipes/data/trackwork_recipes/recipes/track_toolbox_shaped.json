@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " R ",
+    "FXF"
+  ],
+  "key": {
+    "R": {
+      "item": "create:encased_chain_drive"
+    },
+    "F": {
+      "item": "minecraft:redstone_torch"
+    },
+    "X": {
+      "item": "create:belt_connector"
+    }
+  },
+  "result": {
+    "item": "trackwork:track_level_controller"
+  }
+}

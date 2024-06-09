@@ -1,0 +1,22 @@
+{
+"type": "minecraft:crafting_shaped",
+"pattern": [
+" R ",
+"FXF",
+" R "
+  ],
+  "key": {
+    "R": {
+      "item": "create:cogwheel"
+      },
+    "F": {
+      "item": "create:andesite_alloy"
+      },
+    "X": {
+      "item": "create:belt_connector"
+    }
+  },
+  "result": {
+    "item": "trackwork:med_suspension_track"
+  }
+}

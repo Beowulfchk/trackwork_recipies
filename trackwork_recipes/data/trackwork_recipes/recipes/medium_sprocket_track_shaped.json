@@ -1,0 +1,22 @@
+{
+"type": "minecraft:crafting_shaped",
+"pattern": [
+" R ",
+"FXF",
+" R "
+  ],
+  "key": {
+    "R": {
+      "item": "create:cogwheel"
+      },
+    "F": {
+      "tag": "minecraft:planks"
+      },
+    "X": {
+      "item": "create:belt_connector"
+    }
+  },
+  "result": {
+    "item": "trackwork:med_phys_track"
+  }
+}
